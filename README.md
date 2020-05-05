@@ -1,9 +1,5 @@
+Movie App
 
-# Working Movie App
-
-## File
-
-* [`working-movie-app-easier`](Unsolved/working-movie-app-easier.html) or [`working-movie-app-harder`](Unsolved/working-movie-app-harder.html)
 
 ## Instructions
 
